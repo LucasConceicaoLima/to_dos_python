@@ -1,0 +1,2 @@
+1|Ir no banco|Sacar dinheiro e pagar as contas
+2|Ir ao supermercado|Comprar comida
